@@ -1,0 +1,2 @@
+self.capture_history = []
+
